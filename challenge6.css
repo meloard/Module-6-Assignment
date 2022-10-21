@@ -1,0 +1,17 @@
+.Title {
+    justify-content: center;
+    display: flex;
+    background-color: blue;
+    color: rgb(230, 223, 223);
+}
+
+.topnav {
+    align-items: flex-end;
+}
+
+h1 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: rgb(57, 232, 235);
+}
